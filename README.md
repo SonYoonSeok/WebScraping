@@ -1,3 +1,3 @@
 # Study_Python
 
-Studying Python Web Scraping
+Studying Web Scraping with Python
